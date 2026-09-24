@@ -1,4 +1,4 @@
-# BirdBox
+# EggsTracked
 
 A field-use prototype for aviary nest box checks: navigate by building and
 box/cage, log egg conditions, track hatched babies, and drag eggs to quick
